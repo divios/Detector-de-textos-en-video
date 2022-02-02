@@ -1,2 +1,2 @@
-# Detector-de-textos-en-video
-Detector de textos en video programado en C y con la api GStreamer
+# Video text detector
+Video text detector programmed on C and using GStreamer library
